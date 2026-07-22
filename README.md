@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maudesoul
-- 👀 I’m interested in developing embedded software systems in hardware such as avionics, robotics, etc.
-- 🌱 I’m currently learning Rust, Python (again but for managing LED Matrix displays this time)
+- 👋 Hi, I’m @divrnaut
+- 👀 I’m interested in developing embedded software systems in marine tech, avionics, robotics, etc.
+- 🌱 I’m currently learning Strudel, FreeRTOS, Godot, Pixelorama, and embedded C
 - 💞️ I’m looking to collaborate on nothing ATM but keep you posted!
 - 📫 How to reach me: hello@divrnaut.com
 - 😄 Pronouns: she/they
